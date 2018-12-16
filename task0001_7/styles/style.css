@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+/*第一个页面*/
+.header{
+	width: 100%; 
+	height: 80px; 
+	background-color: #522A5C;}
+.header-text{
+	font-size: 14px;
+	color: #FFF;
+	width: 960px;
+	margin: 0 auto;
+	}
+.header-text .icon img{width:30px;
+	height:34px;
+	float:right;
+	position:relative;
+	left:330px;
+	top:46px;}
+.logo{font-size: 24px;
+	margin-top: 35px;
+	float: left;
+	}
+.list li{margin-left: 28px;
+	float: right;
+	margin-top: 54px;
+	}
+.big-img{position:relative;}
+.big-i{width:1200px;
+	margin:0 auto;}
+.big-i img{width:1200px;}
+.content-1{width: 360px;
+	height: 120px;
+	background-color: rgba(255,255,255,0.5);
+	position:absolute;
+	right:182px;
+	top:405px;
+	color:#FFF;
+	font-family:"宋体";}
+.content-1 h3{font-size:16px;
+	text-align:right;
+	padding:10px 10px 0;}	
+.content-1 p{font-size:12px;
+	text-indent:24px;
+	padding:5px 10px 0;}
+
+.sml-img{background-color: #EEE;
+	height:480px;
+	width:1200px;
+	margin:0 auto;}
+.img-list{width: 320px;
+	height: 360px;
+	background-color:#FFF;
+	float:left;
+	margin-top:10px;}
+.img-list img{padding:10px;}
+.img-list p{text-indent:24px;
+	font-size:12px;
+	padding:10px 24px 0;
+	color:#000;}
+.img-1{margin-left:110px;}
+.img-2{margin-left:10px;
+	margin-right:10px;}
+	
+/*introduction*/
+.introduction{text-align: center;}
+.introduction img{position: relative;
+	top: -50px;}	
+.introduction h3{font-size: 20px;
+	margin-bottom:30px;
+	color:#000;
+	font-family: Verdana, Geneva, sans-serif;}
+.introduction p{font-size:14px;
+	margin: 0 auto;
+	width:600px;
+	text-align: left;
+	text-indent:28px;}
+
+/*footer*/
+.footers{background-color:#000;
+	height:395px;
+	margin-top:186px;}
+.footers a{color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;}
+.footers a:hover{text-decoration:underline;}
+.footers-h{border-bottom:#333 solid 1px;}
+.fonter-list1{overflow:hidden;
+	margin:0 auto;
+	width:200px;}
+.fonter-list1 li{float:left;
+	height:35px;
+	line-height:35px;
+	width:48px;}
+.fonter-list2{overflow:hidden;
+	width:1000px;
+	margin:39px auto 28px;}
+.fonter-list2 a{color:#CCCCCC;}
+.fonter-list2 li{float:left;
+	width:200px;}
+.footers-l{overflow:hidden;
+	width:1000px;
+	margin:0 auto;}
+.fonter-list3{float:left;
+	width:200px;}
+	
+.info{background:url(../images/icon-github.png) 10px 33px no-repeat;
+	width:49px;
+	height:67px;
+	text-align:center;
+	margin:112px auto 0;
+	color:#FFF;}
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
